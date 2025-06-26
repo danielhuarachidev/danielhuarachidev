@@ -19,7 +19,7 @@
 - 📸 [Instagram](https://instagram.com/danielhuarachi.dev)
 - 🎵 [TikTok](https://tiktok.com/@danielhuarachi.dev)
 - 📘 [Facebook](https://facebook.com/danielhuarachi.dev)
-- 📺 [YouTube](https://youtube.com/@tucanal)
+- 📺 [YouTube](https://youtube.com/@danielhuarachidev)
 
 ---
 
