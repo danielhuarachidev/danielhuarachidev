@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 Soy Daniel Huarachi</h1>
 
-<!--
-**danielhuarachidev/danielhuarachidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Joven técnico en formación apasionado por la programación, la autodisciplina y el desarrollo personal.  
+🚀 Actualmente aprendiendo y creando proyectos que me ayuden a crecer en el mundo tech.  
+💡 Aquí comparto mis proyectos, ideas y mi progreso.
 
-Here are some ideas to get you started:
+### 🔧 Tecnologías aprendiendo:
+- HTML, CSS, JavaScript (y mucho más en camino 🚀)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Proyectos personales:
+- 🏆 Disciplina App (En desarrollo)
+- 🎮 Jueguito del Drilococo (En camino)
+- 🌐 Portafolio web (Próximamente)
+
+---
+
+### 📲 Encuéntrame aquí:
+- 🔗 [Mi Link Bio](https://hopp.bio/daniel-huarachi)
+- 📸 [Instagram](https://instagram.com/danielhuarachi.dev)
+- 🎵 [TikTok](https://tiktok.com/@danielhuarachi.dev)
+- 📘 [Facebook](https://facebook.com/danielhuarachi.dev)
+- 📺 [YouTube](https://youtube.com/@tucanal)
+
+---
+
+> 💻 No nací sabiendo, pero sí con visión.  
+> #EnProceso 👨‍💻
