@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 Soy Daniel Huarachi</h1>
+<h1 align="center">Hi , I'm Daniel Huarachi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 🌟 Joven técnico en formación apasionado por la programación, la autodisciplina y el desarrollo personal.  
 🚀 Actualmente aprendiendo y creando proyectos que me ayuden a crecer en el mundo tech.  
