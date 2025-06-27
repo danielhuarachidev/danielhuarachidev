@@ -1,27 +1,10 @@
 <h1 align="center">Hi , I'm Daniel Huarachi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## 🐍 A Snake Eating My Contributions Graph
 
-🌟 Joven técnico en formación apasionado por la programación, la autodisciplina y el desarrollo personal.  
-🚀 Actualmente aprendiendo y creando proyectos que me ayuden a crecer en el mundo tech.  
-💡 Aquí comparto mis proyectos, ideas y mi progreso.
-
-### 🔧 Tecnologías aprendiendo:
-- HTML, CSS, JavaScript (y mucho más en camino 🚀)
-
-### ✨ Proyectos personales:
-- 🏆 Disciplina App (En desarrollo)
-- 🎮 Jueguito del Drilococo (En camino)
-- 🌐 Portafolio web (Próximamente)
-
----
-
-### 📲 Encuéntrame aquí:
-- 🔗 [Mi Link Bio](https://hopp.bio/daniel-huarachi)
-- 📸 [Instagram](https://instagram.com/danielhuarachi.dev)
-- 🎵 [TikTok](https://tiktok.com/@danielhuarachi.dev)
-- 📘 [Facebook](https://facebook.com/danielhuarachi.dev)
-- 📺 [YouTube](https://youtube.com/@danielhuarachidev)
-
----
-
-> 💻 No nací sabiendo, pero sí con visión.  
-> #EnProceso 👨‍💻
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
