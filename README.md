@@ -1,3 +1,4 @@
+
 <!-- 
 ¡Hola, soy Daniel Huarachi!  
 ¡Bienvenido a mi perfil de GitHub! 
@@ -5,7 +6,7 @@
 
 <p align="center">
   <!-- Imagen principal de cabecera (Drilococo programando) -->
-  <img src="image1" width="80%" alt="Drilococo programando" />
+  <img src="drilococo-banner.png" width="80%" alt="Drilococo programando" />
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy Daniel Huarachi</h1>
@@ -57,7 +58,7 @@
 <!-- Drilococo comiéndose contribuciones (snake custom) -->
 <h2 align="center">🐊 Drilococo comiéndose mis contribuciones</h2>
 <p align="center">
-  <img src="image2" width="60%" alt="Drilococo snake" />
+  <img src="drilococo-contribution-eater.png" width="60%" alt="Drilococo snake" />
 </p>
 
 <!-- Puedes reemplazar el snake clásico con un generador personalizado, pero aquí queda representativo con tu imagen pixel art -->
@@ -69,7 +70,7 @@
 <p align="center">
   <!-- Ejemplo de proyecto, modifica con el tuyo real -->
   <a href="https://github.com/danielhuarachidev/mi-proyecto-destacado">
-    <img src="image4" width="200px" alt="Proyecto Destacado" /><br/>
+    <img src="drilococo-main.png" width="200px" alt="Proyecto Destacado" /><br/>
     <b>Mi Proyecto Destacado</b>
   </a>
   <br/>
@@ -92,7 +93,7 @@
 
 <!-- Drilococo pixelado pequeño (avatar) -->
 <p align="center">
-  <img src="image3" width="100px" alt="Drilococo Avatar" />
+  <img src="drilococo-icon.png" width="100px" alt="Drilococo Avatar" />
 </p>
 
 ---
@@ -102,3 +103,4 @@
 </p>
 
 <!-- 100% centrado, limpio, bonito y elegante -->
+````
