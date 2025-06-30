@@ -1,33 +1,25 @@
-
 <!-- 
 ¡Hola, soy Daniel Huarachi!  
 ¡Bienvenido a mi perfil de GitHub! 
 -->
 
 <p align="center">
-  <!-- Imagen principal de cabecera (Drilococo programando) -->
   <img src="drilococo-banner.png" width="80%" alt="Drilococo programando" />
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy Daniel Huarachi</h1>
 
 <p align="center">
-  <b>
-    <span id="animated-text"></span>
-  </b>
-</p>
+  Soy un joven técnico en formación, apasionado por la programación, la autodisciplina y el desarrollo personal. 
+  Me encanta aprender constantemente, construir proyectos, compartir mi progreso y ayudar a otros que también 
+  están en este camino de crecimiento. <br/><br/>
 
-<!-- Microhistoria animada (typing animation) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=700&color=0FB6C9&center=true&vCenter=true&width=600&lines=Bienvenido...;Técnico+en+formación...;Apasionado+por+la+programación...;Disciplina,+progreso+y+constancia...;Aprendiendo+y+creando...+🏆" alt="Typing SVG" />
-</p>
+  Este perfil es un reflejo de mi proceso, donde encontrarás parte de lo que aprendo, creo y desarrollo. 
+  Aquí documento mi avance en programación, mis proyectos, mis ideas, herramientas que utilizo y cosas útiles 
+  tanto para mí como para quienes me siguen.<br/><br/>
 
-<!-- Frase épica -->
-<p align="center">
-  <b>Drilococo se alimenta de mi disciplina, una contribución a la vez. 🐊🥥💻</b>
-</p>
-
-<br/>
+  <b>👇 Justo aquí abajo puedes acceder a mis redes, donde comparto más contenido, avances y experiencias del proceso.</b>
+</p> 
 
 <!-- Redes sociales -->
 <p align="center">
@@ -52,16 +44,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,git,github,vscode" alt="Tech Stack" />
 </p>
-
-<br/>
-
-<!-- Drilococo comiéndose contribuciones (snake custom) -->
-<h2 align="center">🐊 Drilococo comiéndose mis contribuciones</h2>
-<p align="center">
-  <img src="drilococo-contribution-eater.png" width="60%" alt="Drilococo snake" />
-</p>
-
-<!-- Puedes reemplazar el snake clásico con un generador personalizado, pero aquí queda representativo con tu imagen pixel art -->
 
 <br/>
 
@@ -103,4 +85,3 @@
 </p>
 
 <!-- 100% centrado, limpio, bonito y elegante -->
-````
