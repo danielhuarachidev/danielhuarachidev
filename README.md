@@ -71,17 +71,13 @@
   <img src="https://komarev.com/ghpvc/?username=danielhuarachidev&label=Visitas+al+perfil&color=0FB6C9&style=for-the-badge" alt="Profile views" />
 </p>
 
-<br/>
-
-<!-- Drilococo pixelado pequeño (avatar) -->
-<p align="center">
-  <img src="drilococo-icon.png" width="100px" alt="Drilococo Avatar" />
-</p>
-
----
+<!-- Drilococo pixelado pequeño (avatar) más grande -->
+<div align="center">
+  <img src="drilococo-icon.png" width="140px" alt="Drilococo Avatar" />
+  <hr style="width: 140px; border: 1px solid #d3d3d3; margin: 18px auto 5px auto;" />
+</div>
 
 <p align="center">
-  <b>¡Gracias por visitar mi perfil! <br/> Si crees que puedo aportar en tu proyecto, contáctame. 💬</b>
+  <b>¡Gracias por visitar mi perfil!<br/>
+  Si te interesa colaborar, compartir ideas o crees que puedo aportar a tu proyecto, no dudes en contactarme. 💬</b>
 </p>
-
-<!-- 100% centrado, limpio, bonito y elegante -->
