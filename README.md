@@ -39,24 +39,23 @@
 
 <br/>
 
-<!-- Cuadros de tecnologías (agrega tus tecnologías principales aquí) -->
-<h2 align="center">⚒️ Tecnologías y Herramientas</h2>
+<!-- Tecnologías -->
+<h2 align="center">💻 Tecnologías</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python" alt="Tecnologías" />
+</p>
+
+<!-- Herramientas -->
+<h2 align="center">🛠️ Herramientas</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Herramientas" />
 </p>
 
 <br/>
 
-<!-- Proyectos Destacados -->
-<h2 align="center">🚀 Proyecto Destacado</h2>
+<!-- Imagen principal destacada -->
 <p align="center">
-  <!-- Ejemplo de proyecto, modifica con el tuyo real -->
-  <a href="https://github.com/danielhuarachidev/mi-proyecto-destacado">
-    <img src="drilococo-main.png" width="200px" alt="Proyecto Destacado" /><br/>
-    <b>Mi Proyecto Destacado</b>
-  </a>
-  <br/>
-  <i>Un proyecto increíble en desarrollo. ¡Próximamente más detalles!</i>
+  <img src="drilococo-main.png" width="320px" alt="Drilococo Main" />
 </p>
 
 <br/>
@@ -71,7 +70,7 @@
   <img src="https://komarev.com/ghpvc/?username=danielhuarachidev&label=Visitas+al+perfil&color=0FB6C9&style=for-the-badge" alt="Profile views" />
 </p>
 
-<!-- Drilococo pixelado pequeño (avatar) más grande -->
+<!-- Drilococo pixelado pequeño (avatar) más grande y alineado con la línea -->
 <div align="center">
   <img src="drilococo-icon.png" width="140px" alt="Drilococo Avatar" />
   <hr style="width: 140px; border: 1px solid #d3d3d3; margin: 18px auto 5px auto;" />
