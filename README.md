@@ -5,7 +5,7 @@
 
 <!-- Typing Animation / Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0FB6C9&center=true&vCenter=true&width=650&lines=%C2%A1Bienvenido+a+mi+perfil!+%F0%9F%91%8B;T%C3%A9cnico+en+formaci%C3%B3n...;Desarrollador+web+y+de+videojuegos+junior...;Apasionado+por+la+programaci%C3%B3n+y+la+creatividad...;Disciplina%2C+c%C3%B3digo+y+progreso...;Aprendiendo%2C+creando+y+creciendo+cada+d%C3%ADa...;Construyendo+mi+camino%2C+un+proyecto+a+la+vez...;Drilococo+y+yo+seguimos+en+proceso+%F0%9F%90%8A%F0%9F%A5%A5...;Gracias+por+estar+aqu%C3%AD.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0FB6C9&center=true&vCenter=true&width=650&lines=%C2%A1Bienvenido+a+mi+perfil!+%F0%9F%91%8B;T%C3%A9cnico+en+formaci%C3%B3n+y+autodidacta...;Desarrollador+web+y+de+videojuegos+junior...;Apasionado+por+la+programaci%C3%B3n+y+la+creatividad...;Disciplina%2C+c%C3%B3digo+y+progreso...;Aprendiendo%2C+creando+y+creciendo+cada+d%C3%ADa+por+mi+cuenta...;Construyendo+mi+camino%2C+un+proyecto+a+la+vez...;Drilococo+y+yo+seguimos+en+proceso+%F0%9F%90%8A%F0%9F%A5%A5...;Gracias+por+estar+aqu%C3%AD.+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Banner principal -->
@@ -13,17 +13,14 @@
   <img src="drilococo-banner.png" width="80%" alt="Drilococo programando" />
 </p>
 
-<!-- Frase de presentación destacada -->
-<h2 align="center">Desarrollador web y de videojuegos junior apasionado por la tecnología y la creatividad</h2>
-
 <!-- Presentación breve -->
 <p align="center">
-  <b>👨‍💻 Técnico en formación</b> &nbsp;|&nbsp; <b>🚀 Aprendiz constante</b> &nbsp;|&nbsp; <b>💡 Apasionado por la programación</b>
+  <b>👨‍💻 Técnico en formación y autodidacta</b> &nbsp;|&nbsp; <b>🚀 Aprendiz constante</b> &nbsp;|&nbsp; <b>💡 Apasionado por la programación</b>
 </p>
 
 <p align="center">
-  Soy un joven técnico en formación, apasionado por la <b>programación</b>, la <b>autodisciplina</b> y el <b>desarrollo personal</b>.<br>
-  Me motiva <b>aprender cada día</b>, <b>crear proyectos</b>, <b>compartir mi progreso</b> y <b>ayudar</b> a quienes también recorren este camino de crecimiento.<br><br>
+  Soy un joven técnico en formación, <b>autodidacta</b>, apasionado por la <b>programación</b>, la <b>autodisciplina</b> y el <b>desarrollo personal</b>.<br>
+  Me motiva <b>aprender cada día</b> por mi cuenta, <b>crear proyectos</b>, <b>compartir mi progreso</b> y <b>ayudar</b> a quienes también recorren este camino de crecimiento.<br><br>
   <span>✨ Este perfil es el reflejo de mi proceso ✨</span><br>
   Aquí encontrarás lo que <b>aprendo</b>, <b>creo</b> y <b>desarrollo</b>.<br>
   Documentaré mis avances, proyectos, ideas, herramientas y recursos útiles para mí y para quienes me siguen.<br><br>
