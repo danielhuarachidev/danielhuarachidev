@@ -12,11 +12,13 @@
   <img src="drilococo-banner.png" width="80%" alt="Drilococo programando" />
 </p>
 
-<!-- Presentación breve optimizada -->
+<!-- Presentación breve optimizada y con emojis estratégicos -->
 <p align="center">
-  Soy técnico en formación, autodidacta y apasionado por la programación, la autodisciplina y el desarrollo personal.<br>
-  Aprendo, creo y comparto mi progreso cada día, construyendo mi camino proyecto a proyecto.<br>
-  Este perfil refleja mi evolución, recursos y experiencias para quienes recorren un camino similar.<br>
+  👨‍💻 <b>Técnico en formación y autodidacta</b> <br>
+  💡 <b>Apasionado por la programación, la autodisciplina y el desarrollo personal</b> <br>
+  🚀 <b>Aprendo, creo y comparto mi progreso cada día, construyendo mi camino proyecto a proyecto</b> <br>
+  ✨ Este perfil refleja mi <b>evolución</b>, <b>recursos</b> y <b>experiencias</b> para quienes recorren un camino similar. <br>
+  <br>
   <b>👇 Encuentra mis redes y sigue mi proceso 👇</b>
 </p>
 
