@@ -67,6 +67,7 @@
   <h2 align="center">💾 Bases de datos y hosting en la nube</h2>
   <p>
     <img src="https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+    <img src="https://img.shields.io/badge/SQLITE-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" />
     <img src="https://img.shields.io/badge/MONGODB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
     <img src="https://img.shields.io/badge/GITHUB%20PAGES-222222?logo=githubpages&logoColor=white&style=for-the-badge" alt="GitHub Pages" />
   </p>
