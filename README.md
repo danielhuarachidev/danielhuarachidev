@@ -101,10 +101,13 @@
 <!-- Stats y contador de visitas -->
 <h2 align="center">📊 Stats & Analíticas</h2>
 <p align="center">
+  <!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=danielhuarachidev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=danielhuarachidev&theme=tokyonight&hide_border=false&border_radius=6.5" alt="Streak stats" height="160"/>
+  <!-- GitHub Readme Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+  <img src="https://streak-stats.demolab.com/?user=danielhuarachidev&theme=tokyonight&hide_border=false&border_radius=6.5" alt="Streak stats" height="160"/>
 </p>
 <p align="center">
+  <!-- Komarev Profile Views Counter: https://github.com/antonkomarev/github-profile-views-counter -->
   <img src="https://komarev.com/ghpvc/?username=danielhuarachidev&label=Visitas+al+perfil&color=0FB6C9&style=for-the-badge" alt="Profile views" />
 </p>
 
