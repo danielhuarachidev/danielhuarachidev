@@ -1,7 +1,6 @@
-<!-- 
-¡Hola, soy Daniel Huarachi!  
-¡Bienvenido a mi perfil de GitHub! 
--->
+<p align="right">
+  🇺🇸 <a href="./README.en.md"><b>Read this in English</b></a>
+</p>
 
 <!-- Typing Animation / Texto animado -->
 <p align="center">
@@ -13,18 +12,12 @@
   <img src="drilococo-banner.png" width="80%" alt="Drilococo programando" />
 </p>
 
-<!-- Presentación breve -->
+<!-- Presentación breve optimizada -->
 <p align="center">
-  <b>👨‍💻 Técnico en formación y autodidacta</b> &nbsp;|&nbsp; <b>🚀 Aprendiz constante</b> &nbsp;|&nbsp; <b>💡 Apasionado por la programación</b>
-</p>
-
-<p align="center">
-  Soy un joven técnico en formación, <b>autodidacta</b>, apasionado por la <b>programación</b>, la <b>autodisciplina</b> y el <b>desarrollo personal</b>.<br>
-  Me motiva <b>aprender cada día</b> por mi cuenta, <b>crear proyectos</b>, <b>compartir mi progreso</b> y <b>ayudar</b> a quienes también recorren este camino de crecimiento.<br><br>
-  <span>✨ Este perfil es el reflejo de mi proceso ✨</span><br>
-  Aquí encontrarás lo que <b>aprendo</b>, <b>creo</b> y <b>desarrollo</b>.<br>
-  Documentaré mis avances, proyectos, ideas, herramientas y recursos útiles para mí y para quienes me siguen.<br><br>
-  <b>👇 ¡Aquí abajo puedes acceder a mis redes, donde comparto avances y experiencias! 👇</b>
+  Soy técnico en formación, autodidacta y apasionado por la programación, la autodisciplina y el desarrollo personal.<br>
+  Aprendo, creo y comparto mi progreso cada día, construyendo mi camino proyecto a proyecto.<br>
+  Este perfil refleja mi evolución, recursos y experiencias para quienes recorren un camino similar.<br>
+  <b>👇 Encuentra mis redes y sigue mi proceso 👇</b>
 </p>
 
 <!-- Redes sociales -->
