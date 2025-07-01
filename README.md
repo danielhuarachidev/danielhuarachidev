@@ -1,5 +1,5 @@
 <p align="right">
-  🇺🇸 <a href="./README.en.md"><b>Read this in English</b></a>
+  🇺🇸 <a href="#english-version"><b>Read this in English</b></a>
 </p>
 
 <!-- Typing Animation / Texto animado -->
@@ -17,7 +17,6 @@
   👨‍💻 <b>Técnico en formación y autodidacta</b> <br>
   💡 <b>Apasionado por la programación, la autodisciplina y el desarrollo personal</b> <br>
   🚀 <b>Aprendo, creo y comparto mi progreso cada día, construyendo mi camino proyecto a proyecto</b> <br>
-  ✨ Este perfil refleja mi <b>evolución</b>, <b>recursos</b> y <b>experiencias</b> para quienes recorren un camino similar. <br>
   <br>
   <b>👇 Encuentra mis redes y sigue mi proceso 👇</b>
 </p>
@@ -105,6 +104,47 @@
   <!-- Komarev Profile Views Counter: https://github.com/antonkomarev/github-profile-views-counter -->
   <img src="https://komarev.com/ghpvc/?username=danielhuarachidev&label=Visitas+al+perfil&color=0FB6C9&style=for-the-badge" alt="Profile views" />
 </p>
+
+<!-- Avatar y mensaje final -->
+<div align="center">
+  <img src="drilococo-icon.png" width="150px" alt="Drilococo Avatar" />
+  <hr style="width: 150px; border: 1px solid #d3d3d3; margin: 18px auto 5px auto;" />
+</div>
+
+<p align="center">
+  <b>¡Gracias por visitar mi perfil!<br>
+  Si te interesa colaborar, compartir ideas o crees que puedo aportar a tu proyecto, no dudes en contactarme. 💬</b>
+</p>
+
+---
+
+<!-- English version below (anchor: english-version) -->
+<h2 id="english-version">🇺🇸 English Version</h2>
+
+<p align="center">
+  👨‍💻 <b>Student technician and self-taught</b> <br>
+  💡 <b>Passionate about programming, self-discipline, and personal growth</b> <br>
+  🚀 <b>I learn, create, and share my progress every day, building my path project by project</b> <br>
+  <br>
+  <b>👇 Find my networks and follow my journey 👇</b>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/danielhuarachi.dev/?utm_source=ig_web_button_share_sheet">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@danielhuarachi.dev?is_from_webapp=1&sender_device=pc">
+    <img src="https://img.shields.io/badge/TikTok-000000.svg?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok">
+  </a>
+  <a href="https://www.facebook.com/danielhuarachi.dev/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
+  </a>
+  <a href="https://youtube.com/@danielhuarachidev?si=PitWDp0hv121TWOj">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
+  </a>
+</p>
+
+<!-- The rest of the technical sections, stats, etc., can also be duplicated in English below if you wish -->
 
 <!-- Avatar y mensaje final -->
 <div align="center">
