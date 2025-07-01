@@ -59,9 +59,10 @@
       <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
       <img src="https://img.shields.io/badge/Pygame-36454F?logo=python&logoColor=white&style=for-the-badge" alt="Pygame" />
       <br><br>
-      <b>Bases de datos:</b><br>
+      <b>Bases de datos y Hosting en la nube:</b><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" />
+      <img src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white&style=for-the-badge" alt="GitHub Pages" />
       <br><br>
       <b>Motores de videojuegos:</b><br>
       <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity" />
