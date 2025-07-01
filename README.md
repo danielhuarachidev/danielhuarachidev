@@ -52,42 +52,39 @@
 <div align="center">
 
   <!-- Tecnologías principales -->
-  <h3>⚡ Tecnologías principales</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python" alt="Tecnologías" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python" alt="Tecnologías" /><br><br>
 
   <!-- Frameworks y librerías -->
-  <h3>🧩 Frameworks y librerías</h3>
+  <h2 align="center">🟩 Frameworks y librerías</h2>
   <p>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
-    <img src="https://img.shields.io/badge/Pygame-36454F?logo=python&logoColor=white&style=for-the-badge" alt="Pygame" />
+    <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/EXPRESS.JS-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
+    <img src="https://img.shields.io/badge/PYGAME-36454F?logo=python&logoColor=white&style=for-the-badge" alt="Pygame" />
   </p>
 
   <!-- Bases de datos y hosting -->
-  <h3>💾 Bases de datos y hosting en la nube</h3>
+  <h2 align="center">💾 Bases de datos y hosting en la nube</h2>
   <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white&style=for-the-badge" alt="GitHub Pages" />
+    <img src="https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MONGODB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/GITHUB%20PAGES-222222?logo=githubpages&logoColor=white&style=for-the-badge" alt="GitHub Pages" />
   </p>
 
   <!-- Motores de videojuegos -->
-  <h3>🎮 Motores de videojuegos y desarrollo de juegos</h3>
+  <h2 align="center">🎮 Motores de videojuegos y desarrollo de juegos</h2>
   <p>
-    <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity" />
-    <img src="https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge" alt="Godot" />
+    <img src="https://img.shields.io/badge/UNITY-100000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity" />
+    <img src="https://img.shields.io/badge/GODOT-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge" alt="Godot" />
   </p>
 
   <!-- Herramientas -->
-  <h3>🛠️ Herramientas</h3>
+  <h2 align="center">🛠️ Herramientas</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Herramientas" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
-    <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" alt="Notion" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code" />
+    <img src="https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+    <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code" />
+    <img src="https://img.shields.io/badge/FIGMA-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
+    <img src="https://img.shields.io/badge/NOTION-000000?logo=notion&logoColor=white&style=for-the-badge" alt="Notion" />
   </p>
 
 </div>
