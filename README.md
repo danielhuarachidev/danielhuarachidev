@@ -10,14 +10,17 @@
 <h1 align="center">¡Hola! 👋 Soy Daniel Huarachi</h1>
 
 <p align="center">
-  Soy un joven técnico en formación, apasionado por la programación, la autodisciplina y el desarrollo personal. 
-  Me encanta aprender constantemente, construir proyectos, compartir mi progreso y ayudar a otros que también 
-  están en este camino de crecimiento. <br/><br/>
+  <b>👨‍💻 Técnico en formación • 🚀 Aprendiz constante • 💡 Apasionado por la programación</b>
+</p>
 
-  Este perfil es un reflejo de mi proceso, donde encontrarás parte de lo que aprendo, creo y desarrollo. 
-  Aquí documento mi avance en programación, mis proyectos, mis ideas, herramientas que utilizo y cosas útiles 
-  tanto para mí como para quienes me siguen.<br/><br/>
-
+<p align="center">
+  Soy un joven técnico en formación, apasionado por la <b>programación</b>, la <b>autodisciplina</b> y el <b>desarrollo personal</b>.<br/>
+  Me encanta <b>aprender</b> constantemente, <b>construir proyectos</b>, <b>compartir mi progreso</b> y <b>ayudar a otros</b> que también están en este camino de crecimiento.<br/><br/>
+  
+  <b>✨ Este perfil es un reflejo de mi proceso ✨</b><br/>
+  Aquí encontrarás parte de lo que <b>aprendo</b>, <b>creo</b> y <b>desarrollo</b>. <br/>
+  Documentaré mi avance en programación, proyectos, ideas, herramientas que utilizo y recursos útiles para mí y para quienes me siguen.<br/><br/>
+  
   <b>👇 Justo aquí abajo puedes acceder a mis redes, donde comparto más contenido, avances y experiencias del proceso.</b>
 </p> 
 
