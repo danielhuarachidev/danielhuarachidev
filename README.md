@@ -9,20 +9,18 @@
 
 <h1 align="center">¡Hola! 👋 Soy Daniel Huarachi</h1>
 
-<p align="center">
-  <b>👨‍💻 Técnico en formación • 🚀 Aprendiz constante • 💡 Apasionado por la programación</b>
+<!-- Presentación central bonita y destacada -->
+<p align="center" style="max-width: 700px; margin: 0 auto;">
+  <b>👨‍💻 Técnico en formación</b> &nbsp;|&nbsp; <b>🚀 Aprendiz constante</b> &nbsp;|&nbsp; <b>💡 Apasionado por la programación</b>
 </p>
 
-<p align="center">
-  Soy un joven técnico en formación, apasionado por la <b>programación</b>, la <b>autodisciplina</b> y el <b>desarrollo personal</b>.<br/>
-  Me encanta <b>aprender</b> constantemente, <b>construir proyectos</b>, <b>compartir mi progreso</b> y <b>ayudar a otros</b> que también están en este camino de crecimiento.<br/><br/>
-  
-  <b>✨ Este perfil es un reflejo de mi proceso ✨</b><br/>
-  Aquí encontrarás parte de lo que <b>aprendo</b>, <b>creo</b> y <b>desarrollo</b>. <br/>
-  Documentaré mi avance en programación, proyectos, ideas, herramientas que utilizo y recursos útiles para mí y para quienes me siguen.<br/><br/>
-  
-  <b>👇 Justo aquí abajo puedes acceder a mis redes, donde comparto más contenido, avances y experiencias del proceso.</b>
-</p> 
+<p align="center" style="max-width: 600px; font-size: 1.1em;">
+  Soy un joven técnico en formación, apasionado por la <b>programación</b>, la <b>autodisciplina</b> y el <b>desarrollo personal</b>.<br>
+  Me motiva <b>aprender cada día</b>, <b>crear proyectos</b>, <b>compartir mi progreso</b> y <b>ayudar</b> a quienes también recorren este camino de crecimiento.<br><br>
+  <span style="font-size:1.05em;">✨ Este perfil es el reflejo de mi proceso ✨</span><br>
+  Aquí encontrarás lo que <b>aprendo</b>, <b>creo</b> y <b>desarrollo</b>. Documentaré mis avances, proyectos, ideas, herramientas y recursos útiles para mí y para quienes me siguen.<br><br>
+  <b>👇 ¡Justo aquí abajo puedes acceder a mis redes, donde comparto más contenido, avances y experiencias! 👇</b>
+</p>
 
 <!-- Redes sociales -->
 <p align="center">
@@ -42,28 +40,28 @@
 
 <br/>
 
-<!-- Tecnologías -->
-<h2 align="center">💻 Tecnologías</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python" alt="Tecnologías" />
-</p>
-
-<!-- Herramientas -->
-<h2 align="center">🛠️ Herramientas</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Herramientas" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h2>💻 Tecnologías</h2>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python" alt="Tecnologías" /><br>
+    </td>
+    <td align="center" width="50%">
+      <h2>🛠️ Herramientas</h2>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Herramientas" /><br>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- Imagen principal destacada -->
 <p align="center">
-  <img src="drilococo-main.png" width="320px" alt="Drilococo Main" />
+  <img src="drilococo-main.png" width="340px" alt="Drilococo Main" />
 </p>
 
 <br/>
 
-<!-- Stats y Contador de visitas -->
 <h2 align="center">📊 Stats & Analíticas</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielhuarachidev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="160"/>
@@ -73,13 +71,12 @@
   <img src="https://komarev.com/ghpvc/?username=danielhuarachidev&label=Visitas+al+perfil&color=0FB6C9&style=for-the-badge" alt="Profile views" />
 </p>
 
-<!-- Drilococo pixelado pequeño (avatar) más grande y alineado con la línea -->
 <div align="center">
-  <img src="drilococo-icon.png" width="140px" alt="Drilococo Avatar" />
-  <hr style="width: 140px; border: 1px solid #d3d3d3; margin: 18px auto 5px auto;" />
+  <img src="drilococo-icon.png" width="150px" alt="Drilococo Avatar" />
+  <hr style="width: 150px; border: 1px solid #d3d3d3; margin: 18px auto 5px auto;" />
 </div>
 
 <p align="center">
-  <b>¡Gracias por visitar mi perfil!<br/>
+  <b>¡Gracias por visitar mi perfil!<br>
   Si te interesa colaborar, compartir ideas o crees que puedo aportar a tu proyecto, no dudes en contactarme. 💬</b>
 </p>
