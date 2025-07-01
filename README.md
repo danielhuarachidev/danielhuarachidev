@@ -3,6 +3,11 @@
 ¡Bienvenido a mi perfil de GitHub! 
 -->
 
+<!-- Typing Animation / Texto animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0FB6C9&center=true&vCenter=true&width=650&lines=%C2%A1Bienvenido+a+mi+perfil!+%F0%9F%91%8B;T%C3%A9cnico+en+formaci%C3%B3n...;Desarrollador+web+y+de+videojuegos+junior...;Apasionado+por+la+programaci%C3%B3n+y+la+creatividad...;Disciplina%2C+c%C3%B3digo+y+progreso...;Aprendiendo%2C+creando+y+creciendo+cada+d%C3%ADa...;Construyendo+mi+camino%2C+un+proyecto+a+la+vez...;Drilococo+y+yo+seguimos+en+proceso+%F0%9F%90%8A%F0%9F%A5%A5...;Gracias+por+estar+aqu%C3%AD.+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 <!-- Banner principal -->
 <p align="center">
   <img src="drilococo-banner.png" width="80%" alt="Drilococo programando" />
@@ -10,8 +15,6 @@
 
 <!-- Frase de presentación destacada -->
 <h2 align="center">Desarrollador web y de videojuegos junior apasionado por la tecnología y la creatividad</h2>
-
-<h1 align="center">¡Hola! 👋 Soy Daniel Huarachi</h1>
 
 <!-- Presentación breve -->
 <p align="center">
@@ -24,7 +27,7 @@
   <span>✨ Este perfil es el reflejo de mi proceso ✨</span><br>
   Aquí encontrarás lo que <b>aprendo</b>, <b>creo</b> y <b>desarrollo</b>.<br>
   Documentaré mis avances, proyectos, ideas, herramientas y recursos útiles para mí y para quienes me siguen.<br><br>
-  <b>👇 ¡Justo aquí abajo puedes acceder a mis redes, donde comparto más contenido, avances y experiencias! 👇</b>
+  <b>👇 ¡Aquí abajo puedes acceder a mis redes, donde comparto avances y experiencias! 👇</b>
 </p>
 
 <!-- Redes sociales -->
@@ -103,7 +106,7 @@
 <p align="center">
   <!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=danielhuarachidev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="160"/>
-  <!-- GitHub Readme Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats -->
   <img src="https://streak-stats.demolab.com/?user=danielhuarachidev&theme=tokyonight&hide_border=false&border_radius=6.5" alt="Streak stats" height="160"/>
 </p>
 <p align="center">
