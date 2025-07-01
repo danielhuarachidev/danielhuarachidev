@@ -58,14 +58,13 @@
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
-    <img src="https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=23272F&style=for-the-badge" alt="React" />
-    <img src="https://img.shields.io/badge/NODE.JS-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
     <img src="https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   </p>
 
   <!-- Frameworks y librerías -->
   <h2 align="center">🟩 Frameworks y librerías</h2>
   <p>
+    <img src="https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=23272F&style=for-the-badge" alt="React" />
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/EXPRESS.JS-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
