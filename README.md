@@ -84,6 +84,7 @@
     <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code" />
     <img src="https://img.shields.io/badge/FIGMA-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
     <img src="https://img.shields.io/badge/NOTION-000000?logo=notion&logoColor=white&style=for-the-badge" alt="Notion" />
+    <img src="https://img.shields.io/badge/POSTMAN-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
   </p>
 
 </div>
